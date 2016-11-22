@@ -10,7 +10,7 @@
 ### Some using dotfiles
    * **.bash_profile**: This file in home directory is loaded first. Some people like to put most of their startup configuration in one file.
    * **.alias**: Allow to define shortcuts for commands, to add default arguments, and/or to abbreviate longer one-liners.
-   * **.fucntion**: Commands that are too complex for an alias can be defined in a function
+   * **.function**: Commands that are too complex for an alias can be defined in a function
    * **.gitignore**: Ignore all the files/folders that you don't want to push it to any version control
    * **.editorconfig**: Define and maintain consistent coding styles between different editors and IDEs 
 
