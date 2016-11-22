@@ -1,5 +1,9 @@
 # DOCFILES
-## INTRODUCTION
+## REFERENCES: 
+* [Mathiasbynens dotfiles](https://github.com/mathiasbynens/dotfiles)
+* [Get started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789#.lngfeji1z)
+
+## INTRODUCTION:
    * Dotfiles are used to customize system
    * It can help us to automate all the things
 
