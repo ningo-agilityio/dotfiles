@@ -1,0 +1,7 @@
+alias gr="cd bluestar/greenchef/greenchef"
+alias sb="source ~/.bash_profile"
+alias la="ls -la"
+alias mubu="mux bluestar"
+alias bv="cd bluestar/vagrant"
+alias bc="cd bluestar/console-vagrant"
+alias tkill="tmux kill-session"
